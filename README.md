@@ -1,6 +1,6 @@
 # A-Hostile-Reputation
 
-The R script (A Hostile Reputation_Table2.R) includes replication code for all analyses presented in Table 2 of Corradi, McMillan & Dietrich. These analyses were estimated using R version 4.1.2, statnet version 2019.6, and ergm version 4.1.2.
+The R script (A Hostile Reputation_Table2.R) includes replication code for the analyses presented in Table 2 of Corradi, McMillan & Dietrich. These analyses were estimated using R version 4.1.2, statnet version 2019.6, and ergm version 4.1.2.
 
 CSV files include various country-level and dyad-level data needed to complete the analyses. Time 1 refers to the period between the fall of the Soviet Union (December 1989) to the eve of September 11, 2001 and Time 2 includes September 11, 2001 to December 2014.
 

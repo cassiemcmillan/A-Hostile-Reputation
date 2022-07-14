@@ -1,6 +1,6 @@
 # A-Hostile-Reputation
 
-The R script (A Hostile Reputation_Table2.R) includes replication code for the analyses presented in Table 2 of Corradi, McMillan & Dietrich. These analyses were estimated using R version 4.1.2, statnet version 2019.6, and ergm version 4.1.2.
+The R script (A Hostile Reputation_Table2.R) includes replication code for the analyses presented in Table 2 of Corradi, McMillan & Dietrich 2022. These analyses were estimated using R version 4.1.2, statnet version 2019.6, and ergm version 4.1.2.
 
 CSV files include various country-level and dyad-level data needed to complete the analyses. Time 1 refers to the period between the fall of the Soviet Union (December 1989) to the eve of September 11, 2001 and Time 2 includes September 11, 2001 to December 2014.
 
@@ -14,4 +14,4 @@ CSV files include various country-level and dyad-level data needed to complete t
 
 The data analyzed in this project were compiled from the Correlates of War (COW) Project (Palmer et al., 2022), the United Nations Statistics Division, and the Varieties of Democracy (V-Dem) project.
 
-Please cite this work as Corradi, Andrea, Cassie McMillan, and Nick Dietrich. Forthcoming. “A Hostile Reputation: A Social Network Approach to Interstate Hostility.” Social Networks.
+Please cite this work as Corradi, Andrea, Cassie McMillan, and Nick Dietrich. 2022. “A Hostile Reputation: A Social Network Approach to Interstate Hostility.” Social Networks 71:61-69.
